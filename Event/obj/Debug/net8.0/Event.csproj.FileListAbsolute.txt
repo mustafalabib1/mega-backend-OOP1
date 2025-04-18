@@ -1,0 +1,14 @@
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\bin\Debug\net8.0\Event.exe
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\bin\Debug\net8.0\Event.deps.json
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\bin\Debug\net8.0\Event.runtimeconfig.json
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\bin\Debug\net8.0\Event.dll
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\bin\Debug\net8.0\Event.pdb
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\obj\Debug\net8.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\obj\Debug\net8.0\Event.AssemblyInfoInputs.cache
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\obj\Debug\net8.0\Event.AssemblyInfo.cs
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\obj\Debug\net8.0\Event.csproj.CoreCompileInputs.cache
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\obj\Debug\net8.0\Event.dll
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\obj\Debug\net8.0\refint\Event.dll
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\obj\Debug\net8.0\Event.pdb
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\obj\Debug\net8.0\Event.genruntimeconfig.cache
+D:\Mustafa\Mega team\backend\opp 1\OOP1\Event\obj\Debug\net8.0\ref\Event.dll
